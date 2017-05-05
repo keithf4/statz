@@ -1,0 +1,5 @@
+*.swp
+*.swo
+.deps/*
+*.o
+*.so
